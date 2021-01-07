@@ -1,0 +1,25 @@
+body {
+  font-family: "Open Sans" "Oswald", sans-serif;
+}
+
+.navbar,
+.contact,
+.experience {
+  background-color: #725d9e;
+}
+
+.contacto {
+  width: 100%;
+  height: 500px;
+}
+footer {
+  height: 200px;
+}
+.carousel-indicators {
+  top: 100px;
+}
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
